@@ -1,0 +1,367 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e4]:
+      - navigation [ref=f1e5]:
+        - list [ref=f1e6]:
+          - listitem [ref=f1e7]:
+            - link "首页" [ref=f1e8] [cursor=pointer]:
+              - /url: https://www.smzdm.com/
+          - listitem [ref=f1e9]:
+            - link "好价" [ref=f1e10] [cursor=pointer]:
+              - /url: https://www.smzdm.com/jingxuan/
+          - listitem [ref=f1e11]:
+            - link "社区" [ref=f1e12] [cursor=pointer]:
+              - /url: https://post.smzdm.com/
+          - listitem [ref=f1e13]:
+            - link "百科" [ref=f1e14] [cursor=pointer]:
+              - /url: https://wiki.smzdm.com/
+      - generic [ref=f1e15]:
+        - list [ref=f1e16]:
+          - text: 
+          - listitem [ref=f1e17]:
+            - link "集团官网" [ref=f1e18] [cursor=pointer]:
+              - /url: https://www.zhidemai.com
+          - listitem [ref=f1e19]:
+            - link "商业合作" [ref=f1e20] [cursor=pointer]:
+              - /url: https://e.smzdm.com/
+          - listitem [ref=f1e22]:
+            - link "爆料投稿 " [ref=f1e23] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - text: 爆料投稿
+              - generic [ref=f1e24]: 
+        - text: 
+        - generic [ref=f1e25]:
+          - link "登录" [ref=f1e26] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - link "注册" [ref=f1e28] [cursor=pointer]:
+            - /url: javascript:void(0);
+        - list: 
+    - generic [ref=f1e30]:
+      - link [ref=f1e32] [cursor=pointer]:
+        - /url: https://www.smzdm.com/
+      - generic [ref=f1e35]:
+        - heading [level=1] [ref=f1e36]:
+          - link "值友福利" [ref=f1e37] [cursor=pointer]:
+            - /url: /
+        - heading "频道首页" [level=2]:
+          - link "频道首页" [ref=f1e38] [cursor=pointer]:
+            - /url: /
+        - heading "优惠券" [level=2]:
+          - link "优惠券" [ref=f1e39] [cursor=pointer]:
+            - /url: /quan/
+        - heading "幸运屋" [level=2]:
+          - link "幸运屋" [ref=f1e40] [cursor=pointer]:
+            - /url: https://zhiyou.smzdm.com/user/crowd/
+        - heading "礼品兑换" [level=2]:
+          - link "礼品兑换" [ref=f1e41] [cursor=pointer]:
+            - /url: /lipin/
+      - generic [ref=f1e42]:
+        - button "" [ref=f1e43] [cursor=pointer]
+        - searchbox "眼镜" [ref=f1e44]
+        - text: 
+  - generic [ref=f1e45]:
+    - list [ref=f1e49]:
+      - listitem [ref=f1e50]:
+        - link [ref=f1e51] [cursor=pointer]:
+          - /url: /d/800904/
+        - link "京东商城电子礼品卡200元" [ref=f1e53] [cursor=pointer]:
+          - /url: /d/800904/
+        - generic [ref=f1e54]:
+          - generic [ref=f1e55]: "已领: 6643张 剩余: 49张"
+          - generic [ref=f1e56]: 2000金币
+        - link "立即兑换" [ref=f1e58] [cursor=pointer]:
+          - /url: /d/800904/
+      - listitem [ref=f1e59]:
+        - link [ref=f1e60] [cursor=pointer]:
+          - /url: /d/800385/
+        - link "京东商城电子礼品卡300元" [ref=f1e62] [cursor=pointer]:
+          - /url: /d/800385/
+        - generic [ref=f1e63]:
+          - generic [ref=f1e64]: "已领: 22935张 剩余: 249张"
+          - generic [ref=f1e65]: 3000金币
+        - link "立即兑换" [ref=f1e67] [cursor=pointer]:
+          - /url: /d/800385/
+      - listitem [ref=f1e68]:
+        - link [ref=f1e69] [cursor=pointer]:
+          - /url: /d/800587/
+        - link "京东商城电子礼品卡500元" [ref=f1e71] [cursor=pointer]:
+          - /url: /d/800587/
+        - generic [ref=f1e72]:
+          - generic [ref=f1e73]: "已领: 12014张 剩余: 86张"
+          - generic [ref=f1e74]: 5000金币
+        - link "立即兑换" [ref=f1e76] [cursor=pointer]:
+          - /url: /d/800587/
+      - listitem [ref=f1e77]:
+        - link [ref=f1e78] [cursor=pointer]:
+          - /url: /d/800386/
+        - link "京东商城电子礼品卡1000元" [ref=f1e80] [cursor=pointer]:
+          - /url: /d/800386/
+        - generic [ref=f1e81]:
+          - generic [ref=f1e82]: "已领: 7091张 剩余: 82张"
+          - generic [ref=f1e83]: 10000金币
+        - link "立即兑换" [ref=f1e85] [cursor=pointer]:
+          - /url: /d/800386/
+      - listitem [ref=f1e86]:
+        - link [ref=f1e87] [cursor=pointer]:
+          - /url: /d/800427/
+        - link "京东商城电子礼品卡2000元" [ref=f1e89] [cursor=pointer]:
+          - /url: /d/800427/
+        - generic [ref=f1e90]:
+          - generic [ref=f1e91]: "已领: 1574张 剩余: 146张"
+          - generic [ref=f1e92]: 20000金币
+        - link "立即兑换" [ref=f1e94] [cursor=pointer]:
+          - /url: /d/800427/
+      - listitem [ref=f1e95]:
+        - link [ref=f1e96] [cursor=pointer]:
+          - /url: /d/800891/
+        - link "小鹿妈妈牙线30支袋装 新老包装随机发货" [ref=f1e98] [cursor=pointer]:
+          - /url: /d/800891/
+        - generic [ref=f1e99]:
+          - generic [ref=f1e100]: "已领: 2312件 剩余: 58件"
+          - generic [ref=f1e101]: 990碎银子
+        - link "立即兑换" [ref=f1e103] [cursor=pointer]:
+          - /url: /d/800891/
+      - listitem [ref=f1e104]:
+        - link [ref=f1e105] [cursor=pointer]:
+          - /url: /d/800748/
+        - link "【碎银专属】什么值得买定制 值字冰箱贴" [ref=f1e107] [cursor=pointer]:
+          - /url: /d/800748/
+        - generic [ref=f1e108]:
+          - generic [ref=f1e109]: "已领: 348件 剩余: 12件"
+          - generic [ref=f1e110]: 3350碎银子
+        - link "立即兑换" [ref=f1e112] [cursor=pointer]:
+          - /url: /d/800748/
+      - listitem [ref=f1e113]:
+        - link [ref=f1e114] [cursor=pointer]:
+          - /url: /d/800747/
+        - link "【碎银专属】什么值得买定制 白菜君冰箱贴" [ref=f1e116] [cursor=pointer]:
+          - /url: /d/800747/
+        - generic [ref=f1e117]:
+          - generic [ref=f1e118]: "已领: 277件 剩余: 33件"
+          - generic [ref=f1e119]: 3210碎银子
+        - link "立即兑换" [ref=f1e121] [cursor=pointer]:
+          - /url: /d/800747/
+      - listitem [ref=f1e122]:
+        - link [ref=f1e123] [cursor=pointer]:
+          - /url: /d/800746/
+        - link "【碎银专属】什么值得买定制 张小草冰箱贴" [ref=f1e125] [cursor=pointer]:
+          - /url: /d/800746/
+        - generic [ref=f1e126]:
+          - generic [ref=f1e127]: "已领: 345件 剩余: 15件"
+          - generic [ref=f1e128]: 3830碎银子
+        - link "立即兑换" [ref=f1e130] [cursor=pointer]:
+          - /url: /d/800746/
+      - listitem [ref=f1e131]:
+        - link [ref=f1e132] [cursor=pointer]:
+          - /url: /d/800825/
+        - link "京东商城电子礼品卡10元" [ref=f1e134] [cursor=pointer]:
+          - /url: /d/800825/
+        - generic [ref=f1e135]:
+          - generic [ref=f1e136]: "已领: 27401张 剩余: 250张"
+          - generic [ref=f1e137]: 100金币
+        - link "即将开始" [ref=f1e139] [cursor=pointer]:
+          - /url: /d/800825/
+      - listitem [ref=f1e140]:
+        - link [ref=f1e141] [cursor=pointer]:
+          - /url: /d/801037/
+        - link "120元加油券包免费领" [ref=f1e143] [cursor=pointer]:
+          - /url: /d/801037/
+        - generic [ref=f1e144]: "已领: 1000张 剩余: 0张"
+        - link "已兑完" [ref=f1e148] [cursor=pointer]:
+          - /url: /d/801037/
+      - listitem [ref=f1e149]:
+        - link [ref=f1e150] [cursor=pointer]:
+          - /url: /d/800967/
+        - link "【金币专属】京东商城电子礼品卡1元" [ref=f1e152] [cursor=pointer]:
+          - /url: /d/800967/
+        - generic [ref=f1e153]:
+          - generic [ref=f1e154]: "已领: 4500张 剩余: 0张"
+          - generic [ref=f1e155]: 10金币
+        - link "已兑完" [ref=f1e157] [cursor=pointer]:
+          - /url: /d/800967/
+      - listitem [ref=f1e158]:
+        - link [ref=f1e159] [cursor=pointer]:
+          - /url: /d/800943/
+        - link "京东商城电子礼品卡1元" [ref=f1e161] [cursor=pointer]:
+          - /url: /d/800943/
+        - generic [ref=f1e162]:
+          - generic [ref=f1e163]: "已领: 14500张 剩余: 0张"
+          - generic [ref=f1e164]: 100碎银子
+        - link "已兑完" [ref=f1e166] [cursor=pointer]:
+          - /url: /d/800943/
+      - listitem [ref=f1e167]:
+        - link [ref=f1e168] [cursor=pointer]:
+          - /url: /d/800693/
+        - link "京东商城电子礼品卡2元" [ref=f1e170] [cursor=pointer]:
+          - /url: /d/800693/
+        - generic [ref=f1e171]:
+          - generic [ref=f1e172]: "已领: 7000张 剩余: 0张"
+          - generic [ref=f1e173]: 200碎银子
+        - link "已兑完" [ref=f1e175] [cursor=pointer]:
+          - /url: /d/800693/
+      - listitem [ref=f1e176]:
+        - link [ref=f1e177] [cursor=pointer]:
+          - /url: /d/800911/
+        - link "京东商城电子礼品卡3元" [ref=f1e179] [cursor=pointer]:
+          - /url: /d/800911/
+        - generic [ref=f1e180]:
+          - generic [ref=f1e181]: "已领: 26300张 剩余: 0张"
+          - generic [ref=f1e182]: 300碎银子
+        - link "已兑完" [ref=f1e184] [cursor=pointer]:
+          - /url: /d/800911/
+      - listitem [ref=f1e185]:
+        - link [ref=f1e186] [cursor=pointer]:
+          - /url: /d/800995/
+        - link "【金币专属】京东商城电子礼品卡5元" [ref=f1e188] [cursor=pointer]:
+          - /url: /d/800995/
+        - generic [ref=f1e189]:
+          - generic [ref=f1e190]: "已领: 3000张 剩余: 0张"
+          - generic [ref=f1e191]: 50金币
+        - link "已兑完" [ref=f1e193] [cursor=pointer]:
+          - /url: /d/800995/
+      - listitem [ref=f1e194]:
+        - link [ref=f1e195] [cursor=pointer]:
+          - /url: /d/800661/
+        - link "京东商城电子礼品卡5元" [ref=f1e197] [cursor=pointer]:
+          - /url: /d/800661/
+        - generic [ref=f1e198]:
+          - generic [ref=f1e199]: "已领: 27500张 剩余: 0张"
+          - generic [ref=f1e200]: 500碎银子
+        - link "已兑完" [ref=f1e202] [cursor=pointer]:
+          - /url: /d/800661/
+      - listitem [ref=f1e203]:
+        - link [ref=f1e204] [cursor=pointer]:
+          - /url: /d/800902/
+        - link "京东商城电子礼品卡6元" [ref=f1e206] [cursor=pointer]:
+          - /url: /d/800902/
+        - generic [ref=f1e207]:
+          - generic [ref=f1e208]: "已领: 29300张 剩余: 0张"
+          - generic [ref=f1e209]: 600碎银子
+        - link "已兑完" [ref=f1e211] [cursor=pointer]:
+          - /url: /d/800902/
+      - listitem [ref=f1e212]:
+        - link [ref=f1e213] [cursor=pointer]:
+          - /url: /d/800970/
+        - link "京东商城电子礼品卡8元" [ref=f1e215] [cursor=pointer]:
+          - /url: /d/800970/
+        - generic [ref=f1e216]:
+          - generic [ref=f1e217]: "已领: 14400张 剩余: 0张"
+          - generic [ref=f1e218]: 800碎银子
+        - link "已兑完" [ref=f1e220] [cursor=pointer]:
+          - /url: /d/800970/
+      - listitem [ref=f1e221]:
+        - link [ref=f1e222] [cursor=pointer]:
+          - /url: /d/800897/
+        - link "【金币专属】京东商城电子礼品卡8元" [ref=f1e224] [cursor=pointer]:
+          - /url: /d/800897/
+        - generic [ref=f1e225]:
+          - generic [ref=f1e226]: "已领: 16100张 剩余: 0张"
+          - generic [ref=f1e227]: 80金币
+        - link "已兑完" [ref=f1e229] [cursor=pointer]:
+          - /url: /d/800897/
+    - list [ref=f1e230]:
+      - listitem [ref=f1e231]:
+        - link "1" [ref=f1e232] [cursor=pointer]:
+          - /url: //duihuan.smzdm.com/lipin/p1/
+      - listitem [ref=f1e233]:
+        - link "2" [ref=f1e234] [cursor=pointer]:
+          - /url: //duihuan.smzdm.com/lipin/p2/
+      - listitem [ref=f1e235]:
+        - link "下一页" [ref=f1e236] [cursor=pointer]:
+          - /url: //duihuan.smzdm.com/lipin/p2/
+        - text: ">"
+  - contentinfo [ref=f1e237]:
+    - generic [ref=f1e238]:
+      - generic [ref=f1e239]:
+        - generic [ref=f1e240]:
+          - link "关于我们" [ref=f1e241] [cursor=pointer]:
+            - /url: https://www.zhidemai.com/
+          - link "联系我们" [ref=f1e242] [cursor=pointer]:
+            - /url: https://www.smzdm.com/contact-us
+          - link "招聘专区" [ref=f1e243] [cursor=pointer]:
+            - /url: https://www.zhidemai.com/personnel/#join
+          - link "网站地图" [ref=f1e244] [cursor=pointer]:
+            - /url: https://www.smzdm.com/sitemap.html
+          - link "商业合作" [ref=f1e246] [cursor=pointer]:
+            - /url: https://e.smzdm.com/
+          - link "廉洁举报" [ref=f1e247] [cursor=pointer]:
+            - /url: https://www.smzdm.com/lianjiejubao
+          - link "用户协议" [ref=f1e249] [cursor=pointer]:
+            - /url: https://res.smzdm.com/protocol/user/
+          - link "隐私政策" [ref=f1e250] [cursor=pointer]:
+            - /url: https://res.smzdm.com/protocol/privacy/
+        - generic [ref=f1e251]:
+          - paragraph [ref=f1e252]:
+            - link "京公网安备11010602100083" [ref=f1e253] [cursor=pointer]:
+              - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010602100083
+            - text: "|"
+            - link "电信与信息服务业务经营许可证：京ICP证160379号" [ref=f1e254] [cursor=pointer]:
+              - /url: https://www.smzdm.com/jingyingxuke/
+            - text: "|"
+            - link "京ICP备12048526号-2" [ref=f1e255] [cursor=pointer]:
+              - /url: http://beian.miit.gov.cn/
+          - paragraph [ref=f1e256]:
+            - link "营业性演出许可证 京演（机构）[2024]6171号" [ref=f1e257] [cursor=pointer]:
+              - /url: https://www.smzdm.com/yingyexingyanchu/
+            - text: "|"
+            - link "互联网药品信息服务资格证书 (京)-非经营性-2022-0049" [ref=f1e258] [cursor=pointer]:
+              - /url: https://www.smzdm.com/yaopinxuke/
+            - text: "|"
+            - link "营业执照" [ref=f1e259] [cursor=pointer]:
+              - /url: https://www.smzdm.com/yingyezhizhao
+          - paragraph [ref=f1e260]:
+            - link "广播电视节目制作经营许可证（京）字第07726号" [ref=f1e261] [cursor=pointer]:
+              - /url: https://www.smzdm.com/shipinxuke/
+          - paragraph [ref=f1e262]:
+            - text: 违法和不良信息举报/涉未成年人及
+            - img "chuanxiao" [ref=f1e263]
+            - text: 举报电话：4008108106-9 | 违法和不良信息举报邮箱：service@zhidemai.com
+          - paragraph [ref=f1e264]: © copyright 2010-2026 值得买科技. All rights reserved. 版权所有 本站内容未经书面许可,禁止一切形式的转载。
+        - paragraph [ref=f1e266]:
+          - link [ref=f1e267] [cursor=pointer]:
+            - /url: https://www.etrust.org.cn/CX885277142735.html
+            - img "互联网诚信经营示范单位" [ref=f1e268]
+          - link [ref=f1e269] [cursor=pointer]:
+            - /url: https://www.12377.cn/
+            - img "credit" [ref=f1e270]
+          - link [ref=f1e271] [cursor=pointer]:
+            - /url: https://www.12315.cn/
+            - img "12315" [ref=f1e272]
+      - generic [ref=f1e273]:
+        - img "qrcode" [ref=f1e275]
+        - list [ref=f1e276]:
+          - listitem [ref=f1e277]:
+            - generic [ref=f1e278]:
+              - generic [ref=f1e279]: 
+              - text: smzdm_smzdm
+          - listitem [ref=f1e280]:
+            - link " 关注什么值得买" [ref=f1e281] [cursor=pointer]:
+              - /url: https://weibo.com/smzdm
+              - generic [ref=f1e282]: 
+              - text: 关注什么值得买
+          - listitem [ref=f1e283]:
+            - link " Rss 订阅中心" [ref=f1e284] [cursor=pointer]:
+              - /url: https://www.smzdm.com/dingyue
+              - generic [ref=f1e285]: 
+              - text: Rss 订阅中心
+    - list [ref=f1e286]:
+      - listitem [ref=f1e287]:
+        - link [ref=f1e288] [cursor=pointer]:
+          - /url: https://zhangdama.smzdm.com/chat?from=zdm
+          - text: 
+      - listitem [ref=f1e289]:
+        - generic [ref=f1e290]: 
+      - listitem [ref=f1e292]:
+        - link "" [ref=f1e293] [cursor=pointer]:
+          - /url: javascript:void(0);
+      - listitem [ref=f1e295]:
+        - link "" [ref=f1e296] [cursor=pointer]:
+          - /url: https://www.smzdm.com/about
+      - listitem [ref=f1e298]:
+        - generic [ref=f1e299]: 举报电话
+      - listitem [ref=f1e300]:
+        - link "" [ref=f1e301] [cursor=pointer]:
+          - /url: "#"
+  - text: 
+  - iframe [ref=f1e304]:
+    

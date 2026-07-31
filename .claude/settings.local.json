@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:duihuan.smzdm.com)",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_snapshot",
+      "mcp__plugin_playwright_playwright__browser_take_screenshot",
+      "mcp__plugin_playwright_playwright__browser_evaluate",
+      "Bash(pip install *)",
+      "Bash(python smzdm_scraper.py)",
+      "Bash(python -c \"import requests; r = requests.get\\('https://duihuan.smzdm.com/lipin/', headers={'User-Agent': 'Mozilla/5.0'}\\); print\\('exchange-item' in r.text, len\\(r.text\\)\\); open\\('debug.html', 'w', encoding='utf-8'\\).write\\(r.text\\)\")",
+      "Bash(pip list *)",
+      "Bash(python -m playwright install chromium)",
+      "Bash(curl *)",
+      "Bash(python -c ' *)"
+    ]
+  }
+}

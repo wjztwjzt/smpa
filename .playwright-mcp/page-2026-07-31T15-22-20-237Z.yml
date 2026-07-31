@@ -1,0 +1,219 @@
+- generic [active] [ref=f4e1]:
+  - banner [ref=f4e2]:
+    - generic [ref=f4e4]:
+      - navigation [ref=f4e5]:
+        - list [ref=f4e6]:
+          - listitem [ref=f4e7]:
+            - link "首页" [ref=f4e8] [cursor=pointer]:
+              - /url: https://www.smzdm.com/
+          - listitem [ref=f4e9]:
+            - link "好价" [ref=f4e10] [cursor=pointer]:
+              - /url: https://www.smzdm.com/jingxuan/
+          - listitem [ref=f4e11]:
+            - link "社区" [ref=f4e12] [cursor=pointer]:
+              - /url: https://post.smzdm.com/
+          - listitem [ref=f4e13]:
+            - link "百科" [ref=f4e14] [cursor=pointer]:
+              - /url: https://wiki.smzdm.com/
+      - generic [ref=f4e15]:
+        - list [ref=f4e16]:
+          - text: 
+          - listitem [ref=f4e17]:
+            - link "集团官网" [ref=f4e18] [cursor=pointer]:
+              - /url: https://www.zhidemai.com
+          - listitem [ref=f4e19]:
+            - link "商业合作" [ref=f4e20] [cursor=pointer]:
+              - /url: https://e.smzdm.com/
+          - listitem [ref=f4e22]:
+            - link "爆料投稿 " [ref=f4e23] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - text: 爆料投稿
+              - generic [ref=f4e24]: 
+        - text: 
+        - generic [ref=f4e25]:
+          - link "登录" [ref=f4e26] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - link "注册" [ref=f4e28] [cursor=pointer]:
+            - /url: javascript:void(0);
+        - list: 
+    - generic [ref=f4e30]:
+      - link [ref=f4e32] [cursor=pointer]:
+        - /url: https://www.smzdm.com/
+      - generic [ref=f4e35]:
+        - heading [level=1] [ref=f4e36]:
+          - link "值友福利" [ref=f4e37] [cursor=pointer]:
+            - /url: /
+        - heading "频道首页" [level=2]:
+          - link "频道首页" [ref=f4e38] [cursor=pointer]:
+            - /url: /
+        - heading "优惠券" [level=2]:
+          - link "优惠券" [ref=f4e39] [cursor=pointer]:
+            - /url: /quan/
+        - heading "幸运屋" [level=2]:
+          - link "幸运屋" [ref=f4e40] [cursor=pointer]:
+            - /url: https://zhiyou.smzdm.com/user/crowd/
+        - heading "礼品兑换" [level=2]:
+          - link "礼品兑换" [ref=f4e41] [cursor=pointer]:
+            - /url: /lipin/
+      - generic [ref=f4e42]:
+        - button "" [ref=f4e43] [cursor=pointer]
+        - searchbox "眼镜" [ref=f4e44]
+        - text: 
+  - generic [ref=f4e45]:
+    - list [ref=f4e49]:
+      - listitem [ref=f4e50]:
+        - link [ref=f4e51] [cursor=pointer]:
+          - /url: /d/800369/
+        - link "【碎银专属】京东商城电子礼品卡10元" [ref=f4e53] [cursor=pointer]:
+          - /url: /d/800369/
+        - generic [ref=f4e54]:
+          - generic [ref=f4e55]: "已领: 29550张 剩余: 0张"
+          - generic [ref=f4e56]: 1000碎银子
+        - link "已兑完" [ref=f4e58] [cursor=pointer]:
+          - /url: /d/800369/
+      - listitem [ref=f4e59]:
+        - link [ref=f4e60] [cursor=pointer]:
+          - /url: /d/800436/
+        - link "京东商城电子礼品卡20元" [ref=f4e62] [cursor=pointer]:
+          - /url: /d/800436/
+        - generic [ref=f4e63]:
+          - generic [ref=f4e64]: "已领: 29800张 剩余: 0张"
+          - generic [ref=f4e65]: 200金币
+        - link "已兑完" [ref=f4e67] [cursor=pointer]:
+          - /url: /d/800436/
+      - listitem [ref=f4e68]:
+        - link [ref=f4e69] [cursor=pointer]:
+          - /url: /d/800393/
+        - link "【碎银专属】京东商城电子礼品卡20元" [ref=f4e71] [cursor=pointer]:
+          - /url: /d/800393/
+        - generic [ref=f4e72]:
+          - generic [ref=f4e73]: "已领: 21400张 剩余: 0张"
+          - generic [ref=f4e74]: 2000碎银子
+        - link "已兑完" [ref=f4e76] [cursor=pointer]:
+          - /url: /d/800393/
+      - listitem [ref=f4e77]:
+        - link [ref=f4e78] [cursor=pointer]:
+          - /url: /d/800516/
+        - link "京东商城电子礼品卡50元" [ref=f4e80] [cursor=pointer]:
+          - /url: /d/800516/
+        - generic [ref=f4e81]:
+          - generic [ref=f4e82]: "已领: 21560张 剩余: 0张"
+          - generic [ref=f4e83]: 500金币
+        - link "已兑完" [ref=f4e85] [cursor=pointer]:
+          - /url: /d/800516/
+      - listitem [ref=f4e86]:
+        - link [ref=f4e87] [cursor=pointer]:
+          - /url: /d/800383/
+        - link "京东商城电子礼品卡100元" [ref=f4e89] [cursor=pointer]:
+          - /url: /d/800383/
+        - generic [ref=f4e90]:
+          - generic [ref=f4e91]: "已领: 20916张 剩余: 0张"
+          - generic [ref=f4e92]: 1000金币
+        - link "已兑完" [ref=f4e94] [cursor=pointer]:
+          - /url: /d/800383/
+    - list [ref=f4e95]:
+      - listitem [ref=f4e96]:
+        - text: <
+        - link "上一页" [ref=f4e97] [cursor=pointer]:
+          - /url: //duihuan.smzdm.com/lipin/p1/
+      - listitem [ref=f4e98]:
+        - link "1" [ref=f4e99] [cursor=pointer]:
+          - /url: //duihuan.smzdm.com/lipin/p1/
+      - listitem [ref=f4e100]:
+        - link "2" [ref=f4e101] [cursor=pointer]:
+          - /url: //duihuan.smzdm.com/lipin/p2/
+  - contentinfo [ref=f4e102]:
+    - generic [ref=f4e103]:
+      - generic [ref=f4e104]:
+        - generic [ref=f4e105]:
+          - link "关于我们" [ref=f4e106] [cursor=pointer]:
+            - /url: https://www.zhidemai.com/
+          - link "联系我们" [ref=f4e107] [cursor=pointer]:
+            - /url: https://www.smzdm.com/contact-us
+          - link "招聘专区" [ref=f4e108] [cursor=pointer]:
+            - /url: https://www.zhidemai.com/personnel/#join
+          - link "网站地图" [ref=f4e109] [cursor=pointer]:
+            - /url: https://www.smzdm.com/sitemap.html
+          - link "商业合作" [ref=f4e111] [cursor=pointer]:
+            - /url: https://e.smzdm.com/
+          - link "廉洁举报" [ref=f4e112] [cursor=pointer]:
+            - /url: https://www.smzdm.com/lianjiejubao
+          - link "用户协议" [ref=f4e114] [cursor=pointer]:
+            - /url: https://res.smzdm.com/protocol/user/
+          - link "隐私政策" [ref=f4e115] [cursor=pointer]:
+            - /url: https://res.smzdm.com/protocol/privacy/
+        - generic [ref=f4e116]:
+          - paragraph [ref=f4e117]:
+            - link "京公网安备11010602100083" [ref=f4e118] [cursor=pointer]:
+              - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010602100083
+            - text: "|"
+            - link "电信与信息服务业务经营许可证：京ICP证160379号" [ref=f4e119] [cursor=pointer]:
+              - /url: https://www.smzdm.com/jingyingxuke/
+            - text: "|"
+            - link "京ICP备12048526号-2" [ref=f4e120] [cursor=pointer]:
+              - /url: http://beian.miit.gov.cn/
+          - paragraph [ref=f4e121]:
+            - link "营业性演出许可证 京演（机构）[2024]6171号" [ref=f4e122] [cursor=pointer]:
+              - /url: https://www.smzdm.com/yingyexingyanchu/
+            - text: "|"
+            - link "互联网药品信息服务资格证书 (京)-非经营性-2022-0049" [ref=f4e123] [cursor=pointer]:
+              - /url: https://www.smzdm.com/yaopinxuke/
+            - text: "|"
+            - link "营业执照" [ref=f4e124] [cursor=pointer]:
+              - /url: https://www.smzdm.com/yingyezhizhao
+          - paragraph [ref=f4e125]:
+            - link "广播电视节目制作经营许可证（京）字第07726号" [ref=f4e126] [cursor=pointer]:
+              - /url: https://www.smzdm.com/shipinxuke/
+          - paragraph [ref=f4e127]:
+            - text: 违法和不良信息举报/涉未成年人及
+            - img "chuanxiao" [ref=f4e128]
+            - text: 举报电话：4008108106-9 | 违法和不良信息举报邮箱：service@zhidemai.com
+          - paragraph [ref=f4e129]: © copyright 2010-2026 值得买科技. All rights reserved. 版权所有 本站内容未经书面许可,禁止一切形式的转载。
+        - paragraph [ref=f4e131]:
+          - link [ref=f4e132] [cursor=pointer]:
+            - /url: https://www.etrust.org.cn/CX885277142735.html
+            - img "互联网诚信经营示范单位" [ref=f4e133]
+          - link [ref=f4e134] [cursor=pointer]:
+            - /url: https://www.12377.cn/
+            - img "credit" [ref=f4e135]
+          - link [ref=f4e136] [cursor=pointer]:
+            - /url: https://www.12315.cn/
+            - img "12315" [ref=f4e137]
+      - generic [ref=f4e138]:
+        - img "qrcode" [ref=f4e140]
+        - list [ref=f4e141]:
+          - listitem [ref=f4e142]:
+            - generic [ref=f4e143]:
+              - generic [ref=f4e144]: 
+              - text: smzdm_smzdm
+          - listitem [ref=f4e145]:
+            - link " 关注什么值得买" [ref=f4e146] [cursor=pointer]:
+              - /url: https://weibo.com/smzdm
+              - generic [ref=f4e147]: 
+              - text: 关注什么值得买
+          - listitem [ref=f4e148]:
+            - link " Rss 订阅中心" [ref=f4e149] [cursor=pointer]:
+              - /url: https://www.smzdm.com/dingyue
+              - generic [ref=f4e150]: 
+              - text: Rss 订阅中心
+    - list [ref=f4e151]:
+      - listitem [ref=f4e152]:
+        - link [ref=f4e153] [cursor=pointer]:
+          - /url: https://zhangdama.smzdm.com/chat?from=zdm
+          - text: 
+      - listitem [ref=f4e154]:
+        - generic [ref=f4e155]: 
+      - listitem [ref=f4e157]:
+        - link "" [ref=f4e158] [cursor=pointer]:
+          - /url: javascript:void(0);
+      - listitem [ref=f4e160]:
+        - link "" [ref=f4e161] [cursor=pointer]:
+          - /url: https://www.smzdm.com/about
+      - listitem [ref=f4e163]:
+        - generic [ref=f4e164]: 举报电话
+      - listitem [ref=f4e165]:
+        - link "" [ref=f4e166] [cursor=pointer]:
+          - /url: "#"
+  - text: 
+  - iframe [ref=f4e169]:
+    
