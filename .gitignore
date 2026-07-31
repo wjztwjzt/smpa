@@ -1,1 +1,5 @@
 .env
+.playwright-mcp/
+.claude/
+expl
+smzdm_gifts.json
